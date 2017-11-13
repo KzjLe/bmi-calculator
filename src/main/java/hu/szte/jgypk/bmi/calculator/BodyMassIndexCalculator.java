@@ -1,6 +1,6 @@
-package com.epam.training.bmi.calculator;
+package hu.szte.jgypk.bmi.calculator;
 
-import com.epam.training.bmi.calculator.data.UnitType;
+import hu.szte.jgypk.bmi.calculator.data.UnitType;
 import com.google.common.primitives.Doubles;
 
 import java.text.DecimalFormat;

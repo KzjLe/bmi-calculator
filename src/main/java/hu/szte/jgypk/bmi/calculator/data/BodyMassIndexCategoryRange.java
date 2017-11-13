@@ -1,4 +1,4 @@
-package com.epam.training.bmi.calculator.data;
+package hu.szte.jgypk.bmi.calculator.data;
 
 import com.google.common.base.MoreObjects;
 import com.google.common.base.Objects;

@@ -1,6 +1,6 @@
-package com.epam.training.bmi.calculator.data;
+package hu.szte.jgypk.bmi.calculator.data;
 
-import com.epam.training.bmi.calculator.mapper.BodyMassIndexCategoryMapper;
+import hu.szte.jgypk.bmi.calculator.mapper.BodyMassIndexCategoryMapper;
 
 /**
  * Enum for body mass category for {@link BodyMassIndexCategoryMapper} to return.

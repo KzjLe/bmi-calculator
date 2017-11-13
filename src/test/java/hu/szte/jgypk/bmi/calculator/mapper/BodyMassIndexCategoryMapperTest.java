@@ -1,8 +1,8 @@
-package com.epam.training.bmi.calculator.mapper;
+package hu.szte.jgypk.bmi.calculator.mapper;
 
-import com.epam.training.bmi.calculator.BodyMassIndexCalculator;
-import com.epam.training.bmi.calculator.data.BodyMassIndexCategory;
-import com.epam.training.bmi.calculator.data.UnitType;
+import hu.szte.jgypk.bmi.calculator.BodyMassIndexCalculator;
+import hu.szte.jgypk.bmi.calculator.data.BodyMassIndexCategory;
+import hu.szte.jgypk.bmi.calculator.data.UnitType;
 import org.mockito.Mock;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;

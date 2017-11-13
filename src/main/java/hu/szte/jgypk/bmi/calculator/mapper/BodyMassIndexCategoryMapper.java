@@ -1,9 +1,9 @@
-package com.epam.training.bmi.calculator.mapper;
+package hu.szte.jgypk.bmi.calculator.mapper;
 
-import com.epam.training.bmi.calculator.BodyMassIndexCalculator;
-import com.epam.training.bmi.calculator.data.BodyMassIndexCategory;
-import com.epam.training.bmi.calculator.data.BodyMassIndexCategoryRange;
-import com.epam.training.bmi.calculator.data.UnitType;
+import hu.szte.jgypk.bmi.calculator.BodyMassIndexCalculator;
+import hu.szte.jgypk.bmi.calculator.data.BodyMassIndexCategory;
+import hu.szte.jgypk.bmi.calculator.data.BodyMassIndexCategoryRange;
+import hu.szte.jgypk.bmi.calculator.data.UnitType;
 import com.google.common.annotations.VisibleForTesting;
 import com.google.common.collect.ImmutableMap;
 

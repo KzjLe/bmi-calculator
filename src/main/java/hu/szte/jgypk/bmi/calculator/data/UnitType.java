@@ -1,6 +1,6 @@
-package com.epam.training.bmi.calculator.data;
+package hu.szte.jgypk.bmi.calculator.data;
 
-import com.epam.training.bmi.calculator.BodyMassIndexCalculator;
+import hu.szte.jgypk.bmi.calculator.BodyMassIndexCalculator;
 
 /**
  * Unit types that the {@link BodyMassIndexCalculator} can use.
